@@ -56,3 +56,11 @@
 
 `gcTime`은 `staleTime`과는 별개로 동작한다. <br>
 `gcTime` 타이머는 **"해당 쿼리를 구독하고 있는 모든 컴포넌트가 언마운트된 시점"** 부터 시작하며, **데이터가 `fresh` 상태든 `stale` 상태든 상관없이 동작한다.**
+
+<br>
+
+---
+
+#### 래퍼런스
+
+- https://www.maeil-mail.kr/question/5
