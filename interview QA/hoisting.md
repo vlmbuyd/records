@@ -153,3 +153,15 @@ var multiply = function (a, b) {
 - **함수**는 사용 전에 선언
 
   함수 선언문은 호이스팅되어 어디서든 호출 가능하긴 하지만, 일관성 있게 사용 전에 선언하는 것이 읽는 사람 입장에서 직관적일 수 있다.
+
+<br>
+
+---
+
+#### 래퍼런스
+
+- https://www.youtube.com/watch?v=ocGc-AmWSnQ
+
+- https://www.maeil-mail.kr/question/31
+
+- https://f-lab.kr/insight/understanding-javascript-hoisting
